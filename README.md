@@ -1,7 +1,3 @@
-Sure! Here's a **description** you can use for a **Python-based Diwali Sale Data Analysis project**. This is suitable for a project report, GitHub README, or portfolio:
-
----
-
 ### 📊 Diwali Sale Data Analysis using Python
 
 This project focuses on analyzing sales data from a major Diwali shopping event using Python. The objective is to extract meaningful insights into customer behavior, product preferences, and purchasing trends, which can help businesses optimize marketing strategies and inventory planning.
